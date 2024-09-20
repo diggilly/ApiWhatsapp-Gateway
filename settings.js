@@ -4,7 +4,7 @@ const fs = require("fs");
 global.port = "5001"; // Port Api / Browser
 global.countrycode = "KE"; // Country Code - https://countrycode.org/ (ISO CODES)
 global.countrycodephone = "254"; // Country Phone - https://countrycode.org/ (COUNTRY CODE)
-global.timezone = "Asia/Jakarta"; // Time Zone
+global.timezone = "Africa/Nairobi"; // Time Zone
 global.usePairingNumber = true; // true = Pairing Code / false = QRCode
 global.pairingNumber = "254751599663"; // whatsapp number used as a bot, for pairing number
 //========================================================
